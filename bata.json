@@ -1,1 +1,3409 @@
-{"status":"200","data":[{"open_date":[{"dist_code":"103001","day":"THU","date":"28-11-2019"}],"menu":[{"user_role":"Order"},{"user_role":"Delivery"},{"user_role":"Payment Collection"},{"user_role":"Return Collection"}],"route":[{"group_type":"Order","dist_code":"103001","route_code":"103001001","route_name":"Tongi-01","section_code":"1","section_name":"Section-01"},{"group_type":"Delivery","dist_code":"103001","route_code":"103001001","route_name":"Tongi-01","section_code":"1","section_name":"Section-01"},{"group_type":"Payment Collection","dist_code":"103001","route_code":"103001002","route_name":"Tongi-02","section_code":"1","section_name":"Section-01"}],"outlet":[{"group_type":"Order","dist_code":"103001","route_code":"103001001","outlet_code":"200001","outlet_name":"Khalid Shoe Store","name_in_bangla":"খালিদ সু ষ্টোর ","address":"৪৮৬, সউথ মনিপুর, মিরপুর, ঢাকা।","contact_no":"017155649749","owner_name":"Khalid","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"}],"due_payment":"0"},{"group_type":"Order","dist_code":"103001","route_code":"103001001","outlet_code":"200004","outlet_name":"Momin Shoe Store","name_in_bangla":"মমিন  সু ষ্টোর ","address":"শাআলি মার্কেট ,মিরপুর-১০, ঢাকা।","contact_no":"017155649749","owner_name":"Momin","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"}],"due_payment":"0"},{"group_type":"Order","dist_code":"103001","route_code":"103001001","outlet_code":"200003","outlet_name":"Sornali Shoe Store","name_in_bangla":"সনারলি  সু ষ্টোর ","address":"১০২/ক, কাজিপারা, মিরপুর, ঢাকা।","contact_no":"017155649749","owner_name":"Musa","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"}],"due_payment":"0"},{"group_type":"Order","dist_code":"103001","route_code":"103001001","outlet_code":"200005","outlet_name":"Tisa Shoe","name_in_bangla":"","address":"","contact_no":"","owner_name":"zaman","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"},{"pay_name":"Credit"}],"due_payment":"0"},{"group_type":"Order","dist_code":"103001","route_code":"103001001","outlet_code":"200006","outlet_name":"padhma shoe","name_in_bangla":"","address":"","contact_no":"","owner_name":"Mizan","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"}],"due_payment":"0"},{"group_type":"Order","dist_code":"103001","route_code":"103001001","outlet_code":"200007","outlet_name":"Sabbir Store","name_in_bangla":"","address":"B18 FLAT A4","contact_no":"01714047203","owner_name":"sabbir raihan","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"},{"pay_name":"Credit"}],"due_payment":"0"},{"group_type":"Delivery","dist_code":"103001","route_code":"103001001","outlet_code":"200001","outlet_name":"Khalid Shoe Store","name_in_bangla":"খালিদ সু ষ্টোর ","address":"৪৮৬, সউথ মনিপুর, মিরপুর, ঢাকা।","contact_no":"017155649749","owner_name":"Khalid","order_pair":"340","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"}],"due_payment":"0"},{"group_type":"Payment Collection","dist_code":"103001","route_code":"103001002","outlet_code":"200002","outlet_name":"Mitali Shoe Store","name_in_bangla":"মিতালি  সু ষ্টোর ","address":"৫০১, ৬০ ফিট, মিরপুর, ঢাকা।","contact_no":"017155649749","owner_name":"Mahabob","order_pair":"0","delivery_pair":"0","pay_type": [{"pay_name":"Cash"},{"pay_name":"Cheque"},{"pay_name":"Credit"}],"due_payment":"200000"}],"order_article":[{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"1","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"1","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"1","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"1","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"1","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"1","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"2","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"2","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"2","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"2","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"2","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"2","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"3","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"3","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"3","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"3","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"3","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"3","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"4","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"4","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"4","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"4","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"4","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"4","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"5","due_ord_pair":"100","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"6","due_ord_pair":"70","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"5582241","size_group":"C","size_code":"8","due_ord_pair":"50","standard_pair":"0","cat_code":"36","sub_cat_code":"18","brand_code":"J","sale_type":"O","mrp":"15999","sale_price":"15999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"5","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"6","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"7","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"8","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"9","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"9","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"9","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"9","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"9","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"9","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"10","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"10","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"10","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"10","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"10","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"10","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200007","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"11","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200006","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"11","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200005","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"11","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200003","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"11","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200004","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"11","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","art_grp_code":"1","delivery_date":"30-11-2019","delivery_day":"SAT","delivery_user":"01716414403","product_code":"8046151","size_group":"D","size_code":"11","due_ord_pair":"","standard_pair":"0","cat_code":"02","sub_cat_code":"10","brand_code":"U","sale_type":"O","mrp":"4999","sale_price":"4999","disc_price":""}],"delivery_article":[{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","product_code":"5582241","cat_code":"36","sub_cat_code":"18","brand_code":"J","mrp":"15999","sale_price":"15999","disc_price":"12000","vat_amt":"2086.83","size_code":"8","ord_pair":"70","wh_stk_pair":"0","del_pair":"0"},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","product_code":"5582241","cat_code":"36","sub_cat_code":"18","brand_code":"J","mrp":"15999","sale_price":"15999","disc_price":"12000","vat_amt":"2086.83","size_code":"6","ord_pair":"70","wh_stk_pair":"200","del_pair":"0"},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","product_code":"5582241","cat_code":"36","sub_cat_code":"18","brand_code":"J","mrp":"15999","sale_price":"15999","disc_price":"12000","vat_amt":"2086.83","size_code":"5","ord_pair":"100","wh_stk_pair":"200","del_pair":"0"},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","product_code":"8614726","cat_code":"45","sub_cat_code":"05","brand_code":"W","mrp":"1599","sale_price":"1599","disc_price":"1599","vat_amt":"208.57","size_code":"7","ord_pair":"60","wh_stk_pair":"30","del_pair":"0"},{"dist_code":"103001","route_code":"103001001","outlet_code":"200001","product_code":"8614726","cat_code":"45","sub_cat_code":"05","brand_code":"W","mrp":"1599","sale_price":"1599","disc_price":"1599","vat_amt":"208.57","size_code":"8","ord_pair":"40","wh_stk_pair":"20","del_pair":"0"}],"outlet_close_reason":[{"close_reason":"No Credit Limit"},{"close_reason":"No money to purchase"},{"close_reason":"Others"},{"close_reason":"Outlet closed"},{"close_reason":"Owner/main order man not present"},{"close_reason":"Stock not required"},"category":[{"cat_code":"01","cat_name":"MEN S INDUSTRIAL","sub_cat_code":"02","sub_cat_name":"M IND H C LEATHER"},{"cat_code":"01","cat_name":"MEN S INDUSTRIAL","sub_cat_code":"04","sub_cat_name":"M IND GUMBOOT"},{"cat_code":"01","cat_name":"MEN S INDUSTRIAL","sub_cat_code":"98","sub_cat_name":"MEN S IND  R  SHOE"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"02","sub_cat_name":"M DRS FASHION"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"04","sub_cat_name":"M DRS TRADITIONAL"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"06","sub_cat_name":"M DRS CONTEMPORARY"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"08","sub_cat_name":"M DRS MOCCASIN"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"10","sub_cat_name":"M DRS HUSH PUPPIES"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"12","sub_cat_name":"M DRS PREMIUM"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"24","sub_cat_name":"M FOOTIN"},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"97","sub_cat_name":"M DRESS B PR FAC SC "},{"cat_code":"02","cat_name":"MEN S DRESS","sub_cat_code":"98","sub_cat_name":"M DRESS R SHOE LIQ"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"02","sub_cat_name":"M CAS FASHION"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"04","sub_cat_name":"M CAS TRADITIONAL"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"06","sub_cat_name":"M CAS CONTEMPORARY"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"08","sub_cat_name":"M CAS WEINBRENNER"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"10","sub_cat_name":"M CAS HUSH PUPPIES"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"24","sub_cat_name":"M CAS FASHION"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"97","sub_cat_name":"M CASUAL B PR FAC SC"},{"cat_code":"03","cat_name":"MEN S CASUAL","sub_cat_code":"98","sub_cat_name":"M CASUAL R SHOE LIQ"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"02","sub_cat_name":"M CNV BASIC"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"04","sub_cat_name":"M CNV L CUT"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"06","sub_cat_name":"M CNV H CUT"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"08","sub_cat_name":"M SUM FOOTBED"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"10","sub_cat_name":"M SUM K PURI"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"12","sub_cat_name":"M SUM LEATHER"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"14","sub_cat_name":"M SUM L SYNTHETIC"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"16","sub_cat_name":"M SUM COMFIT"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"18","sub_cat_name":"M SUM SCHOLL"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"20","sub_cat_name":"M SUM HUSH PUPPIES"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"24","sub_cat_name":"M CAN FOOTIN"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"97","sub_cat_name":"M CANVAS B PR FAC SC"},{"cat_code":"04","cat_name":"MENS CANVAS  FTIME","sub_cat_code":"98","sub_cat_name":"M CANVAS R SHOE LIQ"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"02","sub_cat_name":"THONG"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"04","sub_cat_name":"TOE RING"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"06","sub_cat_name":"SLIPPER"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"08","sub_cat_name":"BACKBELT"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"10","sub_cat_name":"M SND HUSHPUPPIES "},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"12","sub_cat_name":"M SND LIGHT AND EASY"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"14","sub_cat_name":"M SND L SYNTHETIC"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"16","sub_cat_name":"M SND COMFIT"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"18","sub_cat_name":"M SND SCHOLL"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"20","sub_cat_name":"M SND HUSHPUPPIES"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"24","sub_cat_name":"M SND FOOTIN"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"97","sub_cat_name":"M SANDAL B PR FAC SC"},{"cat_code":"05","cat_name":"MEN S SANDALS","sub_cat_code":"98","sub_cat_name":"M SANDAL R SHOE LIQ"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"02","sub_cat_name":"L DF FASHION"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"04","sub_cat_name":"L DF PUMPS"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"06","sub_cat_name":"L DF MAJOR"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"08","sub_cat_name":"L DF SLIPONS"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"10","sub_cat_name":"L DF CHAPLIS"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"97","sub_cat_name":"L D FLAT B PR FAC SC"},{"cat_code":"10","cat_name":"LADIES DRESS FLAT","sub_cat_code":"98","sub_cat_name":"L DRESS FLAT R SHOE"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"02","sub_cat_name":"L DH FASHION"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"03","sub_cat_name":"B I WEDGE"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"04","sub_cat_name":"L DH PUMPS"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"06","sub_cat_name":"L DH SANDALS"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"08","sub_cat_name":"L DH SLIPONS"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"10","sub_cat_name":"L DH CHAPLIS"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"24","sub_cat_name":"L FOOTIN"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"97","sub_cat_name":"L D HEEL B PR FAC SC"},{"cat_code":"11","cat_name":"LADIES DRESS HEEL","sub_cat_code":"98","sub_cat_name":"L D HEEL R SHOE LIQ"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"04","sub_cat_name":"W SCHOLL"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"06","sub_cat_name":"W BATA COMFIT"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"08","sub_cat_name":"Pump Shoe"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"10","sub_cat_name":"W HUSH PUPPIES "},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"12","sub_cat_name":"SUN"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"14","sub_cat_name":"Naturalizer"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"24","sub_cat_name":"L CAS FOOTIN"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"97","sub_cat_name":"L CASUAL B PR FAC SC"},{"cat_code":"12","cat_name":"LADIES CASUAL","sub_cat_code":"98","sub_cat_name":"L CASUAL R SHOE LIQ "},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"02","sub_cat_name":"L CNV L CUTLACE"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"04","sub_cat_name":"L CNV OTHERS"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"06","sub_cat_name":"W FREETIME BELLERINA"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"08","sub_cat_name":"W SUM CH HEEL"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"10","sub_cat_name":"W SUM E COLOUR"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"12","sub_cat_name":"W SUM CONTEMPORY"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"14","sub_cat_name":"W SUM CLOSE BATA "},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"24","sub_cat_name":"L CAN FOOTIN"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"97","sub_cat_name":"L CANVAS B PR FAC SC"},{"cat_code":"13","cat_name":"LADIES CANVAS F TIME","sub_cat_code":"98","sub_cat_name":"L CANVAS R SHOE LIQ"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"02","sub_cat_name":"L S CLOSE VOLUME"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"04","sub_cat_name":"L S WEDGE TYPE"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"06","sub_cat_name":"L S SUMMER"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"10","sub_cat_name":"L S FLAT FASHION"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"12","sub_cat_name":"L S LIGHT EASY"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"14","sub_cat_name":"L SUM CLOSE BATA "},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"24","sub_cat_name":"FOOTIN  LADIES SUMMER "},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"97","sub_cat_name":"L SANDAL B PR FAC SC"},{"cat_code":"14","cat_name":"LADIES SANDAL","sub_cat_code":"98","sub_cat_name":"LSANDALRSHOE LIQ"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"02","sub_cat_name":"MC HEEL"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"03","sub_cat_name":"MC WEDGE"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"04","sub_cat_name":"MC PUMPS"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"06","sub_cat_name":"MC BALLERINA"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"10","sub_cat_name":"MC FLAT"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"24","sub_cat_name":"MC FOOTIN"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"97","sub_cat_name":"MSANDAL B PRFACSC"},{"cat_code":"16","cat_name":"MARIE CLAIRE","sub_cat_code":"98","sub_cat_name":"LDHEELRSHOELIQ"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"02","sub_cat_name":"CLOSE TYPE"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"04","sub_cat_name":"C INF OUTDOOR"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"05","sub_cat_name":"OPEN TYPE"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"06","sub_cat_name":"C INF CITY CASUAL"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"08","sub_cat_name":"C INF BOOTIES C"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"10","sub_cat_name":"C CLOSE VOLUME"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"24","sub_cat_name":"C INF FOOTIN"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"97","sub_cat_name":"CH INFANT B PR FACSC"},{"cat_code":"20","cat_name":"CHIL INFANT","sub_cat_code":"98","sub_cat_name":"CH INFANT R SHOE LIQ"},{"cat_code":"21","cat_name":"CHIL BOYS","sub_cat_code":"02","sub_cat_name":"C BOYS GROUP 3"},{"cat_code":"21","cat_name":"CHIL BOYS","sub_cat_code":"04","sub_cat_name":"C BOYS GROUP 1"},{"cat_code":"21","cat_name":"CHIL BOYS","sub_cat_code":"06","sub_cat_name":"C BYS HUSH PUPPIES"},{"cat_code":"21","cat_name":"CHIL BOYS","sub_cat_code":"24","sub_cat_name":"C BOYS FOOTIN"},{"cat_code":"21","cat_name":"CHIL BOYS","sub_cat_code":"97","sub_cat_name":"CH BOYS B PR FAC SC"},{"cat_code":"21","cat_name":"CHIL BOYS","sub_cat_code":"98","sub_cat_name":"CH BOYS R SHOE LIQ"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"02","sub_cat_name":"CHILD CHAPLIS GR"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"04","sub_cat_name":"CHILD SANDAL GIR"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"06","sub_cat_name":"CHILD CLOSE TYPE"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"08","sub_cat_name":"C SUM LEATHER"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"10","sub_cat_name":"C SUM SYNTHETIC"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"12","sub_cat_name":"C SUM SYN LEATHER"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"24","sub_cat_name":"C SUM FOOTIN"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"97","sub_cat_name":"CH GIRL B PR FAC SC"},{"cat_code":"22","cat_name":"CHIL GIRLS","sub_cat_code":"98","sub_cat_name":"CH GIRL R SHOE LIQ "},{"cat_code":"23","cat_name":"CHIL CANVAS F TIME","sub_cat_code":"02","sub_cat_name":"C CNV JOGGER"},{"cat_code":"23","cat_name":"CHIL CANVAS F TIME","sub_cat_code":"04","sub_cat_name":"C CNV LIFESTYLE"},{"cat_code":"23","cat_name":"CHIL CANVAS F TIME","sub_cat_code":"97","sub_cat_name":"CH CANVAS B PR FACSC"},{"cat_code":"23","cat_name":"CHIL CANVAS F TIME","sub_cat_code":"98","sub_cat_name":"CH CANVAS R SHOE LIQ"},{"cat_code":"24","cat_name":"CHIL SANDALS","sub_cat_code":"02","sub_cat_name":"CHILD CHAPLIS BY"},{"cat_code":"24","cat_name":"CHIL SANDALS","sub_cat_code":"04","sub_cat_name":"CHILD  SANDAL BOY"},{"cat_code":"24","cat_name":"CHIL SANDALS","sub_cat_code":"24","sub_cat_name":"CHILD FOOTIN"},{"cat_code":"24","cat_name":"CHIL SANDALS","sub_cat_code":"97","sub_cat_name":"CH SANDAL B PR FACSC"},{"cat_code":"24","cat_name":"CHIL SANDALS","sub_cat_code":"98","sub_cat_name":"CH SANDAL R SHOE LIQ"},{"cat_code":"30","cat_name":"SCHOOL SPORT STYLE","sub_cat_code":"02","sub_cat_name":"S SPO ST VIBOX"},{"cat_code":"30","cat_name":"SCHOOL SPORT STYLE","sub_cat_code":"04","sub_cat_name":"C SPO ST CANVAS"},{"cat_code":"30","cat_name":"SCHOOL SPORT STYLE","sub_cat_code":"97","sub_cat_name":"SCL SPORT B PR FACSC"},{"cat_code":"30","cat_name":"SCHOOL SPORT STYLE","sub_cat_code":"98","sub_cat_name":"SCLSPORTRSHOELIQ"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"02","sub_cat_name":"S DRS ST LACE"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"04","sub_cat_name":"S DRS ST BUCKLE"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"06","sub_cat_name":"S DRS ST BALLERINA"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"08","sub_cat_name":"S DRS ST VELCRO"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"10","sub_cat_name":"S DRS ST PLASTIC"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"97","sub_cat_name":"SCL DRESS B PR FACSC"},{"cat_code":"31","cat_name":"SCHOOL DRESS STYLE","sub_cat_code":"98","sub_cat_name":"SCL DRESS R SHOE LIQ"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"02","sub_cat_name":"M SPO RUNNING"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"04","sub_cat_name":"M SPO FIELD"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"06","sub_cat_name":"M SPO ADVENTURE"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"08","sub_cat_name":"M SPO LIFESTYLE"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"10","sub_cat_name":"M SPO CRS TRAINER"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"12","sub_cat_name":"M SPO NIKE"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"14","sub_cat_name":"Sparx"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"16","sub_cat_name":"SKECHERS"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"18","sub_cat_name":"ADIDAS"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"22","sub_cat_name":"POWER SANDAL"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"24","sub_cat_name":"M SPO FOOTIN"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"97","sub_cat_name":"M SPORT B PR FAC SC"},{"cat_code":"35","cat_name":"MEN S SPORT","sub_cat_code":"98","sub_cat_name":"MENS SPORT  R  SHOE"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"02","sub_cat_name":"LSPORUNNING"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"04","sub_cat_name":"L SPO FIELD"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"06","sub_cat_name":"L SPO ADVENTURE"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"08","sub_cat_name":"L SPO LIFESTYLE"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"10","sub_cat_name":"L SPO CRS TRAINER"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"12","sub_cat_name":"L SPO NIKE"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"16","sub_cat_name":"SKECHERS"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"18","sub_cat_name":"ADIDAS"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"22","sub_cat_name":"POWER SANDAL"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"24","sub_cat_name":"L SPO FOOTIN"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"97","sub_cat_name":"L SPORT B PR FAC SC"},{"cat_code":"36","cat_name":"LADIES SPORT","sub_cat_code":"98","sub_cat_name":"LADIES SPORT  R SHOE"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"02","sub_cat_name":"C SPO RUNNING"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"04","sub_cat_name":"C SPO FIELD"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"06","sub_cat_name":"C SPO ADVENTURE"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"08","sub_cat_name":"C SPO LIFESTYLE"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"10","sub_cat_name":"C SPO CRS TRAINER C"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"97","sub_cat_name":"CH SPORT B PR FAC SC"},{"cat_code":"37","cat_name":"CHILDREN SPORT","sub_cat_code":"98","sub_cat_name":"CHIL SPORT  R  SHOE"},{"cat_code":"38","cat_name":"SANDAL SPORTS","sub_cat_code":"02","sub_cat_name":"M SPO SANDAL"},{"cat_code":"38","cat_name":"SANDAL SPORTS","sub_cat_code":"04","sub_cat_name":"L SPO SANDAL"},{"cat_code":"38","cat_name":"SANDAL SPORTS","sub_cat_code":"06","sub_cat_name":"C SPO SANDAL"},{"cat_code":"38","cat_name":"SANDAL SPORTS","sub_cat_code":"97","sub_cat_name":"SANDAL B PR FAC SC"},{"cat_code":"38","cat_name":"SANDAL SPORTS","sub_cat_code":"98","sub_cat_name":"CHIL SPORT R  SANDAL"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"02","sub_cat_name":"MENSTHONGS"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"04","sub_cat_name":"LADIES THONGS"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"06","sub_cat_name":"CHIL THONGS"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"08","sub_cat_name":"PATAPATA"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"10","sub_cat_name":"HUSHPUPPIES THONGS"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"24","sub_cat_name":"THON FOOTIN"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"97","sub_cat_name":"THONGS B PR FAC SC"},{"cat_code":"40","cat_name":"THONGS","sub_cat_code":"98","sub_cat_name":"THONGS   R   SHOE"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"02","sub_cat_name":"MEN S PLASTIC"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"04","sub_cat_name":"LADIES PLASTIC"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"06","sub_cat_name":"CHILDREN PLASTIC"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"08","sub_cat_name":"INJECTED EVA"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"24","sub_cat_name":"PLASTIC FOOTIN"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"97","sub_cat_name":"PLASTIC B PR FAC SC"},{"cat_code":"42","cat_name":"INJECTED PLASTIC","sub_cat_code":"98","sub_cat_name":"PLASTIC   R   SHOE"},{"cat_code":"45","cat_name":"WEINBRENNER","sub_cat_code":"03","sub_cat_name":"WM SHOES"},{"cat_code":"45","cat_name":"WEINBRENNER","sub_cat_code":"05","sub_cat_name":"WB SUMMER"},{"cat_code":"45","cat_name":"WEINBRENNER","sub_cat_code":"24","sub_cat_name":"WB FOOTIN"},{"cat_code":"45","cat_name":"WEINBRENNER","sub_cat_code":"97","sub_cat_name":"MSANDAL B PRFACSC"},{"cat_code":"45","cat_name":"WEINBRENNER","sub_cat_code":"98","sub_cat_name":"MSANDAL B PRFACSC"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"02","sub_cat_name":"SHOE CARE KIT"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"04","sub_cat_name":"BELT"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"06","sub_cat_name":"WALLET"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"08","sub_cat_name":"SCARFS"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"10","sub_cat_name":"HP Accessories"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"12","sub_cat_name":"SCHOOL ACC"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"14","sub_cat_name":"EYE GEAR"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"16","sub_cat_name":"OTHER"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"18","sub_cat_name":"ADIDAS"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"24","sub_cat_name":"ACCESSORIES FOOTIN"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"97","sub_cat_name":"ACC  B PRFACSC"},{"cat_code":"50","cat_name":"ACCESSORIES","sub_cat_code":"98","sub_cat_name":"MENS SOCKS C R "},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"02","sub_cat_name":"ACCESSORIES"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"04","sub_cat_name":"BELT"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"05","sub_cat_name":"Men s Socks"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"06","sub_cat_name":"WALLET"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"08","sub_cat_name":"WOMEN S SOCKS"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"10","sub_cat_name":"HP"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"12","sub_cat_name":"SCHOLL ACCESSORIES"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"14","sub_cat_name":"OTHERS"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"15","sub_cat_name":"CHILDREN"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"16","sub_cat_name":"MONEY BAG "},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"18","sub_cat_name":"ADIDAS"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"24","sub_cat_name":"SOCKS FOOTIN"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"97","sub_cat_name":"ACCESSORIES B PR FAC"},{"cat_code":"51","cat_name":"SOCKS","sub_cat_code":"98","sub_cat_name":"SOCKS RIESR"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"02","sub_cat_name":"BAG LADIES"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"04","sub_cat_name":"BAG LADIES BATA"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"06","sub_cat_name":"BAG SCHOOL BBG"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"08","sub_cat_name":"BAG SCHOOL NORTHSTAR"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"10","sub_cat_name":"BAG SCHOOL B FIRST"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"12","sub_cat_name":"BAG OTHERS"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"14","sub_cat_name":"BAG EXECUTIVE BATA"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"16","sub_cat_name":"BAG EXECUTIVE WB"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"18","sub_cat_name":"BAG HUSH PUPPIES"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"24","sub_cat_name":"BAG FOOTIN"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"97","sub_cat_name":"BAG B PR FAC SC"},{"cat_code":"52","cat_name":"BAGS","sub_cat_code":"98","sub_cat_name":"BAG  R "},{"cat_code":"53","cat_name":"APPARELS","sub_cat_code":"05","sub_cat_name":"MENS APPARELS"},{"cat_code":"53","cat_name":"APPARELS","sub_cat_code":"10","sub_cat_name":"WOMENS  APPARELS"},{"cat_code":"53","cat_name":"APPARELS","sub_cat_code":"12","sub_cat_name":"POWER APPARELS"},{"cat_code":"53","cat_name":"APPARELS","sub_cat_code":"18","sub_cat_name":"ADIDAS"},{"cat_code":"53","cat_name":"APPARELS","sub_cat_code":"24","sub_cat_name":"APPARELS FOOTIN"},{"cat_code":"53","cat_name":"APPARELS","sub_cat_code":"98","sub_cat_name":"APPARELS R "},{"cat_code":"54","cat_name":"RUBBER SHEET","sub_cat_code":"02","sub_cat_name":"RUBBER SHEET"},{"cat_code":"59","cat_name":"COMPONENYS","sub_cat_code":"02","sub_cat_name":"THONGS SHEET"},{"cat_code":"60","cat_name":"PACKING MAT","sub_cat_code":"01","sub_cat_name":"WOODEN CASES"},{"cat_code":"60","cat_name":"PACKING MAT","sub_cat_code":"02","sub_cat_name":"C B CASE"},{"cat_code":"60","cat_name":"PACKING MAT","sub_cat_code":"03","sub_cat_name":"GUNNY BAGS"}],"promotion":"","brand":[{"brand_code":"A","brand_name":"BATA  MEN "},{"brand_code":"B","brand_name":"AMBASSADOR"},{"brand_code":"C","brand_name":"COMFIT"},{"brand_code":"D","brand_name":"SCHOLL"},{"brand_code":"E","brand_name":"BATA INDUSTRIALS"},{"brand_code":"F","brand_name":"B  FIRST"},{"brand_code":"G","brand_name":"BUBBLE GUMMERS"},{"brand_code":"H","brand_name":"SKECHERS"},{"brand_code":"I","brand_name":"NATURALIZER"},{"brand_code":"J","brand_name":"ADIDAS"},{"brand_code":"K","brand_name":"NIKE"},{"brand_code":"L","brand_name":"BATA  CHILDREN "},{"brand_code":"M","brand_name":"MARIE CLAIRE"},{"brand_code":"N","brand_name":"NORTH STAR"},{"brand_code":"O","brand_name":"BATA  WOMEN "},{"brand_code":"P","brand_name":"POWER"},{"brand_code":"Q","brand_name":"BEN10 PPG"},{"brand_code":"R","brand_name":"PATAPATA"},{"brand_code":"S","brand_name":"SANDAK"},{"brand_code":"T","brand_name":"BATA THONGS"},{"brand_code":"U","brand_name":"HUSH PUPPIES"},{"brand_code":"V","brand_name":"LIGHT   EASY"},{"brand_code":"W","brand_name":"WEINBRENNER"},{"brand_code":"X","brand_name":"SPARX"},{"brand_code":"Y","brand_name":"LIQUIDATION"},{"brand_code":"Z","brand_name":"BATA RED LABEL"}]]}],"message":"Success"}
+{
+	"status": "200",
+	"data": [{
+		"open_date": [{
+			"dist_code": "103001",
+			"day": "THU",
+			"date": "28-11-2019"
+		}],
+		"menu": [{
+			"user_role": "Order"
+		}, {
+			"user_role": "Delivery"
+		}, {
+			"user_role": "Payment Collection"
+		}, {
+			"user_role": "Return Collection"
+		}],
+		"route": [{
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"route_name": "Tongi-01",
+			"section_code": "1",
+			"section_name": "Section-01"
+		}, {
+			"group_type": "Delivery",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"route_name": "Tongi-01",
+			"section_code": "1",
+			"section_name": "Section-01"
+		}, {
+			"group_type": "Payment Collection",
+			"dist_code": "103001",
+			"route_code": "103001002",
+			"route_name": "Tongi-02",
+			"section_code": "1",
+			"section_name": "Section-01"
+		}],
+		"outlet": [{
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"outlet_name": "Khalid Shoe Store",
+			"name_in_bangla": "খালিদ সু ষ্টোর ",
+			"address": "৪৮৬, সউথ মনিপুর, মিরপুর, ঢাকা।",
+			"contact_no": "017155649749",
+			"owner_name": "Khalid",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"outlet_name": "Momin Shoe Store",
+			"name_in_bangla": "মমিন  সু ষ্টোর ",
+			"address": "শাআলি মার্কেট ,মিরপুর-১০, ঢাকা।",
+			"contact_no": "017155649749",
+			"owner_name": "Momin",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"outlet_name": "Sornali Shoe Store",
+			"name_in_bangla": "সনারলি  সু ষ্টোর ",
+			"address": "১০২/ক, কাজিপারা, মিরপুর, ঢাকা।",
+			"contact_no": "017155649749",
+			"owner_name": "Musa",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"outlet_name": "Tisa Shoe",
+			"name_in_bangla": "",
+			"address": "",
+			"contact_no": "",
+			"owner_name": "zaman",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}, {
+				"pay_name": "Credit"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"outlet_name": "padhma shoe",
+			"name_in_bangla": "",
+			"address": "",
+			"contact_no": "",
+			"owner_name": "Mizan",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Order",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"outlet_name": "Sabbir Store",
+			"name_in_bangla": "",
+			"address": "B18 FLAT A4",
+			"contact_no": "01714047203",
+			"owner_name": "sabbir raihan",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}, {
+				"pay_name": "Credit"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Delivery",
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"outlet_name": "Khalid Shoe Store",
+			"name_in_bangla": "খালিদ সু ষ্টোর ",
+			"address": "৪৮৬, সউথ মনিপুর, মিরপুর, ঢাকা।",
+			"contact_no": "017155649749",
+			"owner_name": "Khalid",
+			"order_pair": "340",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}],
+			"due_payment": "0"
+		}, {
+			"group_type": "Payment Collection",
+			"dist_code": "103001",
+			"route_code": "103001002",
+			"outlet_code": "200002",
+			"outlet_name": "Mitali Shoe Store",
+			"name_in_bangla": "মিতালি  সু ষ্টোর ",
+			"address": "৫০১, ৬০ ফিট, মিরপুর, ঢাকা।",
+			"contact_no": "017155649749",
+			"owner_name": "Mahabob",
+			"order_pair": "0",
+			"delivery_pair": "0",
+			"pay_type": [{
+				"pay_name": "Cash"
+			}, {
+				"pay_name": "Cheque"
+			}, {
+				"pay_name": "Credit"
+			}],
+			"due_payment": "200000"
+		}],
+		"order_article": [{
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "1",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "1",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "1",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "1",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "1",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "1",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "2",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "2",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "2",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "2",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "2",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "2",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "3",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "3",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "3",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "3",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "3",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "3",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "4",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "4",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "4",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "4",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "4",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "4",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "5",
+			"due_ord_pair": "100",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "6",
+			"due_ord_pair": "70",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "5582241",
+			"size_group": "C",
+			"size_code": "8",
+			"due_ord_pair": "50",
+			"standard_pair": "0",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"sale_type": "O",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "5",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "6",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "7",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "8",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "9",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "9",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "9",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "9",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "9",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "9",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "10",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "10",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "10",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "10",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "10",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "10",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200007",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "11",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200006",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "11",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200005",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "11",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200003",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "11",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200004",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "11",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"art_grp_code": "1",
+			"delivery_date": "30-11-2019",
+			"delivery_day": "SAT",
+			"delivery_user": "01716414403",
+			"product_code": "8046151",
+			"size_group": "D",
+			"size_code": "11",
+			"due_ord_pair": "",
+			"standard_pair": "0",
+			"cat_code": "02",
+			"sub_cat_code": "10",
+			"brand_code": "U",
+			"sale_type": "O",
+			"mrp": "4999",
+			"sale_price": "4999",
+			"disc_price": ""
+		}],
+		"delivery_article": [{
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"product_code": "5582241",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": "12000",
+			"vat_amt": "2086.83",
+			"size_code": "8",
+			"ord_pair": "70",
+			"wh_stk_pair": "0",
+			"del_pair": "0"
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"product_code": "5582241",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": "12000",
+			"vat_amt": "2086.83",
+			"size_code": "6",
+			"ord_pair": "70",
+			"wh_stk_pair": "200",
+			"del_pair": "0"
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"product_code": "5582241",
+			"cat_code": "36",
+			"sub_cat_code": "18",
+			"brand_code": "J",
+			"mrp": "15999",
+			"sale_price": "15999",
+			"disc_price": "12000",
+			"vat_amt": "2086.83",
+			"size_code": "5",
+			"ord_pair": "100",
+			"wh_stk_pair": "200",
+			"del_pair": "0"
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"product_code": "8614726",
+			"cat_code": "45",
+			"sub_cat_code": "05",
+			"brand_code": "W",
+			"mrp": "1599",
+			"sale_price": "1599",
+			"disc_price": "1599",
+			"vat_amt": "208.57",
+			"size_code": "7",
+			"ord_pair": "60",
+			"wh_stk_pair": "30",
+			"del_pair": "0"
+		}, {
+			"dist_code": "103001",
+			"route_code": "103001001",
+			"outlet_code": "200001",
+			"product_code": "8614726",
+			"cat_code": "45",
+			"sub_cat_code": "05",
+			"brand_code": "W",
+			"mrp": "1599",
+			"sale_price": "1599",
+			"disc_price": "1599",
+			"vat_amt": "208.57",
+			"size_code": "8",
+			"ord_pair": "40",
+			"wh_stk_pair": "20",
+			"del_pair": "0"
+		}],
+		"outlet_close_reason": [{
+			"close_reason": "No Credit Limit"
+		}, {
+			"close_reason": "No money to purchase"
+		}, {
+			"close_reason": "Others"
+		}, {
+			"close_reason": "Outlet closed"
+		}, {
+			"close_reason": "Owner/main order man not present"
+		}, {
+			"close_reason": "Stock not required"
+		}],
+		"category": [{
+			"cat_code": "01",
+			"cat_name": "MEN S INDUSTRIAL",
+			"sub_cat_code": "02",
+			"sub_cat_name": "M IND H C LEATHER"
+		}, {
+			"cat_code": "01",
+			"cat_name": "MEN S INDUSTRIAL",
+			"sub_cat_code": "04",
+			"sub_cat_name": "M IND GUMBOOT"
+		}, {
+			"cat_code": "01",
+			"cat_name": "MEN S INDUSTRIAL",
+			"sub_cat_code": "98",
+			"sub_cat_name": "MEN S IND  R  SHOE"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "M DRS FASHION"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "M DRS TRADITIONAL"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "M DRS CONTEMPORARY"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "08",
+			"sub_cat_name": "M DRS MOCCASIN"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "M DRS HUSH PUPPIES"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "12",
+			"sub_cat_name": "M DRS PREMIUM"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "M FOOTIN"
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "M DRESS B PR FAC SC "
+		}, {
+			"cat_code": "02",
+			"cat_name": "MEN S DRESS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "M DRESS R SHOE LIQ"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "02",
+			"sub_cat_name": "M CAS FASHION"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "04",
+			"sub_cat_name": "M CAS TRADITIONAL"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "06",
+			"sub_cat_name": "M CAS CONTEMPORARY"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "08",
+			"sub_cat_name": "M CAS WEINBRENNER"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "10",
+			"sub_cat_name": "M CAS HUSH PUPPIES"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "24",
+			"sub_cat_name": "M CAS FASHION"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "97",
+			"sub_cat_name": "M CASUAL B PR FAC SC"
+		}, {
+			"cat_code": "03",
+			"cat_name": "MEN S CASUAL",
+			"sub_cat_code": "98",
+			"sub_cat_name": "M CASUAL R SHOE LIQ"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "02",
+			"sub_cat_name": "M CNV BASIC"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "04",
+			"sub_cat_name": "M CNV L CUT"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "06",
+			"sub_cat_name": "M CNV H CUT"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "08",
+			"sub_cat_name": "M SUM FOOTBED"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "10",
+			"sub_cat_name": "M SUM K PURI"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "12",
+			"sub_cat_name": "M SUM LEATHER"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "14",
+			"sub_cat_name": "M SUM L SYNTHETIC"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "16",
+			"sub_cat_name": "M SUM COMFIT"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "18",
+			"sub_cat_name": "M SUM SCHOLL"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "20",
+			"sub_cat_name": "M SUM HUSH PUPPIES"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "24",
+			"sub_cat_name": "M CAN FOOTIN"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "97",
+			"sub_cat_name": "M CANVAS B PR FAC SC"
+		}, {
+			"cat_code": "04",
+			"cat_name": "MENS CANVAS  FTIME",
+			"sub_cat_code": "98",
+			"sub_cat_name": "M CANVAS R SHOE LIQ"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "THONG"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "TOE RING"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "SLIPPER"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "08",
+			"sub_cat_name": "BACKBELT"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "M SND HUSHPUPPIES "
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "12",
+			"sub_cat_name": "M SND LIGHT AND EASY"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "14",
+			"sub_cat_name": "M SND L SYNTHETIC"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "16",
+			"sub_cat_name": "M SND COMFIT"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "18",
+			"sub_cat_name": "M SND SCHOLL"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "20",
+			"sub_cat_name": "M SND HUSHPUPPIES"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "M SND FOOTIN"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "M SANDAL B PR FAC SC"
+		}, {
+			"cat_code": "05",
+			"cat_name": "MEN S SANDALS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "M SANDAL R SHOE LIQ"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "02",
+			"sub_cat_name": "L DF FASHION"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "04",
+			"sub_cat_name": "L DF PUMPS"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "06",
+			"sub_cat_name": "L DF MAJOR"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "08",
+			"sub_cat_name": "L DF SLIPONS"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "10",
+			"sub_cat_name": "L DF CHAPLIS"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "97",
+			"sub_cat_name": "L D FLAT B PR FAC SC"
+		}, {
+			"cat_code": "10",
+			"cat_name": "LADIES DRESS FLAT",
+			"sub_cat_code": "98",
+			"sub_cat_name": "L DRESS FLAT R SHOE"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "02",
+			"sub_cat_name": "L DH FASHION"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "03",
+			"sub_cat_name": "B I WEDGE"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "04",
+			"sub_cat_name": "L DH PUMPS"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "06",
+			"sub_cat_name": "L DH SANDALS"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "08",
+			"sub_cat_name": "L DH SLIPONS"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "10",
+			"sub_cat_name": "L DH CHAPLIS"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "24",
+			"sub_cat_name": "L FOOTIN"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "97",
+			"sub_cat_name": "L D HEEL B PR FAC SC"
+		}, {
+			"cat_code": "11",
+			"cat_name": "LADIES DRESS HEEL",
+			"sub_cat_code": "98",
+			"sub_cat_name": "L D HEEL R SHOE LIQ"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "04",
+			"sub_cat_name": "W SCHOLL"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "06",
+			"sub_cat_name": "W BATA COMFIT"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "08",
+			"sub_cat_name": "Pump Shoe"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "10",
+			"sub_cat_name": "W HUSH PUPPIES "
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "12",
+			"sub_cat_name": "SUN"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "14",
+			"sub_cat_name": "Naturalizer"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "24",
+			"sub_cat_name": "L CAS FOOTIN"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "97",
+			"sub_cat_name": "L CASUAL B PR FAC SC"
+		}, {
+			"cat_code": "12",
+			"cat_name": "LADIES CASUAL",
+			"sub_cat_code": "98",
+			"sub_cat_name": "L CASUAL R SHOE LIQ "
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "02",
+			"sub_cat_name": "L CNV L CUTLACE"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "04",
+			"sub_cat_name": "L CNV OTHERS"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "06",
+			"sub_cat_name": "W FREETIME BELLERINA"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "08",
+			"sub_cat_name": "W SUM CH HEEL"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "10",
+			"sub_cat_name": "W SUM E COLOUR"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "12",
+			"sub_cat_name": "W SUM CONTEMPORY"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "14",
+			"sub_cat_name": "W SUM CLOSE BATA "
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "24",
+			"sub_cat_name": "L CAN FOOTIN"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "97",
+			"sub_cat_name": "L CANVAS B PR FAC SC"
+		}, {
+			"cat_code": "13",
+			"cat_name": "LADIES CANVAS F TIME",
+			"sub_cat_code": "98",
+			"sub_cat_name": "L CANVAS R SHOE LIQ"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "02",
+			"sub_cat_name": "L S CLOSE VOLUME"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "04",
+			"sub_cat_name": "L S WEDGE TYPE"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "06",
+			"sub_cat_name": "L S SUMMER"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "10",
+			"sub_cat_name": "L S FLAT FASHION"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "12",
+			"sub_cat_name": "L S LIGHT EASY"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "14",
+			"sub_cat_name": "L SUM CLOSE BATA "
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "24",
+			"sub_cat_name": "FOOTIN  LADIES SUMMER "
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "97",
+			"sub_cat_name": "L SANDAL B PR FAC SC"
+		}, {
+			"cat_code": "14",
+			"cat_name": "LADIES SANDAL",
+			"sub_cat_code": "98",
+			"sub_cat_name": "LSANDALRSHOE LIQ"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "02",
+			"sub_cat_name": "MC HEEL"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "03",
+			"sub_cat_name": "MC WEDGE"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "04",
+			"sub_cat_name": "MC PUMPS"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "06",
+			"sub_cat_name": "MC BALLERINA"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "10",
+			"sub_cat_name": "MC FLAT"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "24",
+			"sub_cat_name": "MC FOOTIN"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "97",
+			"sub_cat_name": "MSANDAL B PRFACSC"
+		}, {
+			"cat_code": "16",
+			"cat_name": "MARIE CLAIRE",
+			"sub_cat_code": "98",
+			"sub_cat_name": "LDHEELRSHOELIQ"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "02",
+			"sub_cat_name": "CLOSE TYPE"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "04",
+			"sub_cat_name": "C INF OUTDOOR"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "05",
+			"sub_cat_name": "OPEN TYPE"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "06",
+			"sub_cat_name": "C INF CITY CASUAL"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "08",
+			"sub_cat_name": "C INF BOOTIES C"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "10",
+			"sub_cat_name": "C CLOSE VOLUME"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "24",
+			"sub_cat_name": "C INF FOOTIN"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "97",
+			"sub_cat_name": "CH INFANT B PR FACSC"
+		}, {
+			"cat_code": "20",
+			"cat_name": "CHIL INFANT",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CH INFANT R SHOE LIQ"
+		}, {
+			"cat_code": "21",
+			"cat_name": "CHIL BOYS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "C BOYS GROUP 3"
+		}, {
+			"cat_code": "21",
+			"cat_name": "CHIL BOYS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "C BOYS GROUP 1"
+		}, {
+			"cat_code": "21",
+			"cat_name": "CHIL BOYS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "C BYS HUSH PUPPIES"
+		}, {
+			"cat_code": "21",
+			"cat_name": "CHIL BOYS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "C BOYS FOOTIN"
+		}, {
+			"cat_code": "21",
+			"cat_name": "CHIL BOYS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "CH BOYS B PR FAC SC"
+		}, {
+			"cat_code": "21",
+			"cat_name": "CHIL BOYS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CH BOYS R SHOE LIQ"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "CHILD CHAPLIS GR"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "CHILD SANDAL GIR"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "CHILD CLOSE TYPE"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "08",
+			"sub_cat_name": "C SUM LEATHER"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "C SUM SYNTHETIC"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "12",
+			"sub_cat_name": "C SUM SYN LEATHER"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "C SUM FOOTIN"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "CH GIRL B PR FAC SC"
+		}, {
+			"cat_code": "22",
+			"cat_name": "CHIL GIRLS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CH GIRL R SHOE LIQ "
+		}, {
+			"cat_code": "23",
+			"cat_name": "CHIL CANVAS F TIME",
+			"sub_cat_code": "02",
+			"sub_cat_name": "C CNV JOGGER"
+		}, {
+			"cat_code": "23",
+			"cat_name": "CHIL CANVAS F TIME",
+			"sub_cat_code": "04",
+			"sub_cat_name": "C CNV LIFESTYLE"
+		}, {
+			"cat_code": "23",
+			"cat_name": "CHIL CANVAS F TIME",
+			"sub_cat_code": "97",
+			"sub_cat_name": "CH CANVAS B PR FACSC"
+		}, {
+			"cat_code": "23",
+			"cat_name": "CHIL CANVAS F TIME",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CH CANVAS R SHOE LIQ"
+		}, {
+			"cat_code": "24",
+			"cat_name": "CHIL SANDALS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "CHILD CHAPLIS BY"
+		}, {
+			"cat_code": "24",
+			"cat_name": "CHIL SANDALS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "CHILD  SANDAL BOY"
+		}, {
+			"cat_code": "24",
+			"cat_name": "CHIL SANDALS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "CHILD FOOTIN"
+		}, {
+			"cat_code": "24",
+			"cat_name": "CHIL SANDALS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "CH SANDAL B PR FACSC"
+		}, {
+			"cat_code": "24",
+			"cat_name": "CHIL SANDALS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CH SANDAL R SHOE LIQ"
+		}, {
+			"cat_code": "30",
+			"cat_name": "SCHOOL SPORT STYLE",
+			"sub_cat_code": "02",
+			"sub_cat_name": "S SPO ST VIBOX"
+		}, {
+			"cat_code": "30",
+			"cat_name": "SCHOOL SPORT STYLE",
+			"sub_cat_code": "04",
+			"sub_cat_name": "C SPO ST CANVAS"
+		}, {
+			"cat_code": "30",
+			"cat_name": "SCHOOL SPORT STYLE",
+			"sub_cat_code": "97",
+			"sub_cat_name": "SCL SPORT B PR FACSC"
+		}, {
+			"cat_code": "30",
+			"cat_name": "SCHOOL SPORT STYLE",
+			"sub_cat_code": "98",
+			"sub_cat_name": "SCLSPORTRSHOELIQ"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "02",
+			"sub_cat_name": "S DRS ST LACE"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "04",
+			"sub_cat_name": "S DRS ST BUCKLE"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "06",
+			"sub_cat_name": "S DRS ST BALLERINA"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "08",
+			"sub_cat_name": "S DRS ST VELCRO"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "10",
+			"sub_cat_name": "S DRS ST PLASTIC"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "97",
+			"sub_cat_name": "SCL DRESS B PR FACSC"
+		}, {
+			"cat_code": "31",
+			"cat_name": "SCHOOL DRESS STYLE",
+			"sub_cat_code": "98",
+			"sub_cat_name": "SCL DRESS R SHOE LIQ"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "02",
+			"sub_cat_name": "M SPO RUNNING"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "04",
+			"sub_cat_name": "M SPO FIELD"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "06",
+			"sub_cat_name": "M SPO ADVENTURE"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "08",
+			"sub_cat_name": "M SPO LIFESTYLE"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "10",
+			"sub_cat_name": "M SPO CRS TRAINER"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "12",
+			"sub_cat_name": "M SPO NIKE"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "14",
+			"sub_cat_name": "Sparx"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "16",
+			"sub_cat_name": "SKECHERS"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "18",
+			"sub_cat_name": "ADIDAS"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "22",
+			"sub_cat_name": "POWER SANDAL"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "24",
+			"sub_cat_name": "M SPO FOOTIN"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "97",
+			"sub_cat_name": "M SPORT B PR FAC SC"
+		}, {
+			"cat_code": "35",
+			"cat_name": "MEN S SPORT",
+			"sub_cat_code": "98",
+			"sub_cat_name": "MENS SPORT  R  SHOE"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "02",
+			"sub_cat_name": "LSPORUNNING"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "04",
+			"sub_cat_name": "L SPO FIELD"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "06",
+			"sub_cat_name": "L SPO ADVENTURE"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "08",
+			"sub_cat_name": "L SPO LIFESTYLE"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "10",
+			"sub_cat_name": "L SPO CRS TRAINER"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "12",
+			"sub_cat_name": "L SPO NIKE"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "16",
+			"sub_cat_name": "SKECHERS"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "18",
+			"sub_cat_name": "ADIDAS"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "22",
+			"sub_cat_name": "POWER SANDAL"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "24",
+			"sub_cat_name": "L SPO FOOTIN"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "97",
+			"sub_cat_name": "L SPORT B PR FAC SC"
+		}, {
+			"cat_code": "36",
+			"cat_name": "LADIES SPORT",
+			"sub_cat_code": "98",
+			"sub_cat_name": "LADIES SPORT  R SHOE"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "02",
+			"sub_cat_name": "C SPO RUNNING"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "04",
+			"sub_cat_name": "C SPO FIELD"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "06",
+			"sub_cat_name": "C SPO ADVENTURE"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "08",
+			"sub_cat_name": "C SPO LIFESTYLE"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "10",
+			"sub_cat_name": "C SPO CRS TRAINER C"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "97",
+			"sub_cat_name": "CH SPORT B PR FAC SC"
+		}, {
+			"cat_code": "37",
+			"cat_name": "CHILDREN SPORT",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CHIL SPORT  R  SHOE"
+		}, {
+			"cat_code": "38",
+			"cat_name": "SANDAL SPORTS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "M SPO SANDAL"
+		}, {
+			"cat_code": "38",
+			"cat_name": "SANDAL SPORTS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "L SPO SANDAL"
+		}, {
+			"cat_code": "38",
+			"cat_name": "SANDAL SPORTS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "C SPO SANDAL"
+		}, {
+			"cat_code": "38",
+			"cat_name": "SANDAL SPORTS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "SANDAL B PR FAC SC"
+		}, {
+			"cat_code": "38",
+			"cat_name": "SANDAL SPORTS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "CHIL SPORT R  SANDAL"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "MENSTHONGS"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "LADIES THONGS"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "CHIL THONGS"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "08",
+			"sub_cat_name": "PATAPATA"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "HUSHPUPPIES THONGS"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "THON FOOTIN"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "THONGS B PR FAC SC"
+		}, {
+			"cat_code": "40",
+			"cat_name": "THONGS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "THONGS   R   SHOE"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "02",
+			"sub_cat_name": "MEN S PLASTIC"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "04",
+			"sub_cat_name": "LADIES PLASTIC"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "06",
+			"sub_cat_name": "CHILDREN PLASTIC"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "08",
+			"sub_cat_name": "INJECTED EVA"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "24",
+			"sub_cat_name": "PLASTIC FOOTIN"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "97",
+			"sub_cat_name": "PLASTIC B PR FAC SC"
+		}, {
+			"cat_code": "42",
+			"cat_name": "INJECTED PLASTIC",
+			"sub_cat_code": "98",
+			"sub_cat_name": "PLASTIC   R   SHOE"
+		}, {
+			"cat_code": "45",
+			"cat_name": "WEINBRENNER",
+			"sub_cat_code": "03",
+			"sub_cat_name": "WM SHOES"
+		}, {
+			"cat_code": "45",
+			"cat_name": "WEINBRENNER",
+			"sub_cat_code": "05",
+			"sub_cat_name": "WB SUMMER"
+		}, {
+			"cat_code": "45",
+			"cat_name": "WEINBRENNER",
+			"sub_cat_code": "24",
+			"sub_cat_name": "WB FOOTIN"
+		}, {
+			"cat_code": "45",
+			"cat_name": "WEINBRENNER",
+			"sub_cat_code": "97",
+			"sub_cat_name": "MSANDAL B PRFACSC"
+		}, {
+			"cat_code": "45",
+			"cat_name": "WEINBRENNER",
+			"sub_cat_code": "98",
+			"sub_cat_name": "MSANDAL B PRFACSC"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "02",
+			"sub_cat_name": "SHOE CARE KIT"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "04",
+			"sub_cat_name": "BELT"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "06",
+			"sub_cat_name": "WALLET"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "08",
+			"sub_cat_name": "SCARFS"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "10",
+			"sub_cat_name": "HP Accessories"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "12",
+			"sub_cat_name": "SCHOOL ACC"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "14",
+			"sub_cat_name": "EYE GEAR"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "16",
+			"sub_cat_name": "OTHER"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "18",
+			"sub_cat_name": "ADIDAS"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "24",
+			"sub_cat_name": "ACCESSORIES FOOTIN"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "97",
+			"sub_cat_name": "ACC  B PRFACSC"
+		}, {
+			"cat_code": "50",
+			"cat_name": "ACCESSORIES",
+			"sub_cat_code": "98",
+			"sub_cat_name": "MENS SOCKS C R "
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "ACCESSORIES"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "BELT"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "05",
+			"sub_cat_name": "Men s Socks"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "WALLET"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "08",
+			"sub_cat_name": "WOMEN S SOCKS"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "HP"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "12",
+			"sub_cat_name": "SCHOLL ACCESSORIES"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "14",
+			"sub_cat_name": "OTHERS"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "15",
+			"sub_cat_name": "CHILDREN"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "16",
+			"sub_cat_name": "MONEY BAG "
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "18",
+			"sub_cat_name": "ADIDAS"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "SOCKS FOOTIN"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "ACCESSORIES B PR FAC"
+		}, {
+			"cat_code": "51",
+			"cat_name": "SOCKS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "SOCKS RIESR"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "BAG LADIES"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "04",
+			"sub_cat_name": "BAG LADIES BATA"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "06",
+			"sub_cat_name": "BAG SCHOOL BBG"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "08",
+			"sub_cat_name": "BAG SCHOOL NORTHSTAR"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "BAG SCHOOL B FIRST"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "12",
+			"sub_cat_name": "BAG OTHERS"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "14",
+			"sub_cat_name": "BAG EXECUTIVE BATA"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "16",
+			"sub_cat_name": "BAG EXECUTIVE WB"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "18",
+			"sub_cat_name": "BAG HUSH PUPPIES"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "BAG FOOTIN"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "97",
+			"sub_cat_name": "BAG B PR FAC SC"
+		}, {
+			"cat_code": "52",
+			"cat_name": "BAGS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "BAG  R "
+		}, {
+			"cat_code": "53",
+			"cat_name": "APPARELS",
+			"sub_cat_code": "05",
+			"sub_cat_name": "MENS APPARELS"
+		}, {
+			"cat_code": "53",
+			"cat_name": "APPARELS",
+			"sub_cat_code": "10",
+			"sub_cat_name": "WOMENS  APPARELS"
+		}, {
+			"cat_code": "53",
+			"cat_name": "APPARELS",
+			"sub_cat_code": "12",
+			"sub_cat_name": "POWER APPARELS"
+		}, {
+			"cat_code": "53",
+			"cat_name": "APPARELS",
+			"sub_cat_code": "18",
+			"sub_cat_name": "ADIDAS"
+		}, {
+			"cat_code": "53",
+			"cat_name": "APPARELS",
+			"sub_cat_code": "24",
+			"sub_cat_name": "APPARELS FOOTIN"
+		}, {
+			"cat_code": "53",
+			"cat_name": "APPARELS",
+			"sub_cat_code": "98",
+			"sub_cat_name": "APPARELS R "
+		}, {
+			"cat_code": "54",
+			"cat_name": "RUBBER SHEET",
+			"sub_cat_code": "02",
+			"sub_cat_name": "RUBBER SHEET"
+		}, {
+			"cat_code": "59",
+			"cat_name": "COMPONENYS",
+			"sub_cat_code": "02",
+			"sub_cat_name": "THONGS SHEET"
+		}, {
+			"cat_code": "60",
+			"cat_name": "PACKING MAT",
+			"sub_cat_code": "01",
+			"sub_cat_name": "WOODEN CASES"
+		}, {
+			"cat_code": "60",
+			"cat_name": "PACKING MAT",
+			"sub_cat_code": "02",
+			"sub_cat_name": "C B CASE"
+		}, {
+			"cat_code": "60",
+			"cat_name": "PACKING MAT",
+			"sub_cat_code": "03",
+			"sub_cat_name": "GUNNY BAGS"
+		}],
+		"promotion": "",
+		"brand": [{
+			"brand_code": "A",
+			"brand_name": "BATA  MEN "
+		}, {
+			"brand_code": "B",
+			"brand_name": "AMBASSADOR"
+		}, {
+			"brand_code": "C",
+			"brand_name": "COMFIT"
+		}, {
+			"brand_code": "D",
+			"brand_name": "SCHOLL"
+		}, {
+			"brand_code": "E",
+			"brand_name": "BATA INDUSTRIALS"
+		}, {
+			"brand_code": "F",
+			"brand_name": "B  FIRST"
+		}, {
+			"brand_code": "G",
+			"brand_name": "BUBBLE GUMMERS"
+		}, {
+			"brand_code": "H",
+			"brand_name": "SKECHERS"
+		}, {
+			"brand_code": "I",
+			"brand_name": "NATURALIZER"
+		}, {
+			"brand_code": "J",
+			"brand_name": "ADIDAS"
+		}, {
+			"brand_code": "K",
+			"brand_name": "NIKE"
+		}, {
+			"brand_code": "L",
+			"brand_name": "BATA  CHILDREN "
+		}, {
+			"brand_code": "M",
+			"brand_name": "MARIE CLAIRE"
+		}, {
+			"brand_code": "N",
+			"brand_name": "NORTH STAR"
+		}, {
+			"brand_code": "O",
+			"brand_name": "BATA  WOMEN "
+		}, {
+			"brand_code": "P",
+			"brand_name": "POWER"
+		}, {
+			"brand_code": "Q",
+			"brand_name": "BEN10 PPG"
+		}, {
+			"brand_code": "R",
+			"brand_name": "PATAPATA"
+		}, {
+			"brand_code": "S",
+			"brand_name": "SANDAK"
+		}, {
+			"brand_code": "T",
+			"brand_name": "BATA THONGS"
+		}, {
+			"brand_code": "U",
+			"brand_name": "HUSH PUPPIES"
+		}, {
+			"brand_code": "V",
+			"brand_name": "LIGHT   EASY"
+		}, {
+			"brand_code": "W",
+			"brand_name": "WEINBRENNER"
+		}, {
+			"brand_code": "X",
+			"brand_name": "SPARX"
+		}, {
+			"brand_code": "Y",
+			"brand_name": "LIQUIDATION"
+		}, {
+			"brand_code": "Z",
+			"brand_name": "BATA RED LABEL"
+		}]
+	}],
+	"message": "Success"
+}
